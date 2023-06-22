@@ -13,7 +13,8 @@ export default function About() {
               to achieve. You may also email or call us to make an appointment.
             </p>
             <p>
-              Our general response time is one business day. contact@canterr.com
+              Our general response time is one business day.
+              contact@remoteindia.com
             </p>
             <p>
               +1 (312) 730-8654 5908 Timber Trails Blvd, Western Springs,

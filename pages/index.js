@@ -4,19 +4,19 @@ export default function Home() {
       <section className="black">
         <div>
           <h1>IT Consulting & Staffing</h1>
-          <h3>For Engineers,By Engineers</h3>
+          <h3>For Engineers By Engineers</h3>
         </div>
       </section>
       <section className="green">
         <div>
           <h3>Building dynamic software engineering teams since 2007</h3>
           <p>
-            Canterr, and our subsidiary Foray, have helped build scores of
+            RemoteIndia, and our subsidiary Foray, have helped build scores of
             high-powered teams for clients across the US and India. Our firm
             specializes in leveraging our extensive referral networks for
             finding the most high-quality, suitable and dependable candidates
             for you - replacing the highly transactional recruiting model with a
-            relationship-driven approach. At Canterr, you won’t find a sales or
+            relationship-driven approach. At RemoteIndia, you won’t find a sales or
             a marketing team. We have grown exclusively through referrals and
             word-of-mouth to 5,000+ consultants across the US and India. Our
             offshore centers in Hyderabad, Bangalore and Chennai each have
@@ -54,7 +54,7 @@ export default function Home() {
                 requirements (e.g. e-commerce search/recommendations for some of
                 the largest global firms). We have significant experiences in
                 building low-latency, event-driven systems that scale up to
-                millions of customers and 10K+ tps. At Canterr, you would be
+                millions of customers and 10K+ tps. At RemoteIndia, you would be
                 rubbing shoulders with the top talent from companies like
                 Google, Microsoft and Amazon.
               </p>
@@ -119,9 +119,9 @@ export default function Home() {
           <div className="grid-area1">
             <div>VP of Software Engineering, CapitalOne</div>
             <p>
-              “Canterr Team delivered a high-quality product on time under tight
+              “RemoteIndia Team delivered a high-quality product on time under tight
               deadlines, with complete professionalism. I highly recommend
-              Canterr to well informed and educated clients who appreciate and
+              RemoteIndia to well informed and educated clients who appreciate and
               understand the benefits of a holistic approach to application
               design and development, resulting in minimum cost of development
               and maintenance.”
@@ -130,7 +130,7 @@ export default function Home() {
           <div className="grid-area2">
             <div>– VP of Software Engineering, Skopos Financial </div>
             <p>
-              “The wonderful team of technical experts from Canterr helped us
+              “The wonderful team of technical experts from RemoteIndia helped us
               deliver an amazing product, which helped us achieve our business
               goals. I am completely pleased with their services and highly
               recommend to any client out there.”
@@ -139,7 +139,7 @@ export default function Home() {
           <div className="grid-area3">
             <div>– VP of Software Engineering, AllState </div>
             <p>
-              “We completed 3 projects with Canterr so far. Highlights of the
+              “We completed 3 projects with RemoteIndia so far. Highlights of the
               team – technical expertise, professionalism and ownership. Let’s
               solve the problem vs. this is someone else’s problem. I look
               forward to working with them again”{' '}
