@@ -1,14 +1,8 @@
-import { Navbar, Footer } from '../components/';
 export default function Home() {
   return (
     <div>
-      <link
-        href="https://fonts.googleapis.com/css2?family=Antic+Didone&family=Noto+Sans:ital,wght@1,200&family=Playfair+Display&display=swap"
-        rel="stylesheet"
-      />
       <section className="black">
         <div>
-          <Navbar />
           <h1>IT Consulting & Staffing</h1>
           <h3>For Engineers,By Engineers</h3>
         </div>
@@ -153,7 +147,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-      <Footer />
     </div>
   );
 }
