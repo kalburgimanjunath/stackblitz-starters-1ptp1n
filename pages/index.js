@@ -1,4 +1,4 @@
-import { Navbar } from '../components/';
+import { Navbar, Footer } from '../components/';
 export default function Home() {
   return (
     <div>
@@ -153,6 +153,7 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <Footer />
     </div>
   );
 }

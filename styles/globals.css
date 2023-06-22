@@ -69,3 +69,11 @@ section.black {
 .grid-area3 {
   grid-area: 18/12/23/25;
 }
+.footer {
+  display: flex;
+  font-size: 14px;
+  justify-content: start;
+}
+.footer div {
+  padding: 20px;
+}
